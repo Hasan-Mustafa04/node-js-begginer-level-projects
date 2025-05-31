@@ -11,9 +11,10 @@ node calculator.js
 
 🎓 Grading System
 Percentage	Grade
-90% and above	A
-75% - 89%	B
-50% - 74%	C
+80% and above	A
+65% - 80%	B
+60% - 65%	C
+50% - 60%   D
 Below 50%	Fail
 
 📦 Technologies Used
@@ -22,7 +23,7 @@ Node.js
 JavaScript (readline module)
 
 👤 Author
-Created by Your Name
+Created by Hasan Mustafa
 
 📜 License
 This project is open-source and free to use.
