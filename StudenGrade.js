@@ -15,7 +15,7 @@ rl.question("ENter Your Name : ", (name) => {
                     return;
                 }
                 const percentage = (total / 300) * 100;
-                const grade = percentage >= 80 ? "A" : percentage >= 65 ? "B" : percentage >= 60 ? "C" : "D";
+                const grade = percentage >= 80 ? "A" : percentage >= 65 ? "B" : percentage >= 60 ? "C" :percentage=>50? "D": "F";
                 console.log(`Name: ${name}`);
                 console.log(`Roll Number: ${roll}`);
                 console.log(`Total Marks: ${total}`);
